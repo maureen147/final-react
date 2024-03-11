@@ -2,7 +2,7 @@ import React from "react";
 import Menu from "../components/Nav";
 import "../css/About.css"
 import Hero from "../components/Hero";
-import img from "../assets/images/46106_1_640px-c787fe8a7acc4fdbb0b10ea650836321 1.png"
+import img from "../assets/images/watch 5555555555555.jpg"
 
 const About = () => {
 
@@ -16,10 +16,10 @@ const About = () => {
   
   return (
     <>
-    {/* <Menu/> */}
+    {/* <Menu/>  */}
       <div>
         <Hero heading="Welcome about page" image={img}/>
-        <h1>Blard's React App 1.0</h1>
+        <h1>Maureen React App 1.0</h1>
         {myJsx}
       </div>
       <p>

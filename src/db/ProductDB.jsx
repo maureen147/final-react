@@ -1,9 +1,9 @@
-import img1 from "../assets/images/46106_1_640px-c787fe8a7acc4fdbb0b10ea650836321 1.png";
-import img2 from "../assets/images/armaf.png";
-import img3 from "../assets/images/71Jk6iAfm7L 1.png";
-import img4 from "../assets/images/armaf_club_nuit_intense_edp_100ml_perfume_for_men2.jpg";
-import img5 from "../assets/images/givenchy_eaudemoiselle_de_givenchy_edt_100ml_for_women.jpeg";
-import img6 from "../assets/images/emir_lueur_d_espoir_noche_edp_100ml 1.jpeg";
+import img1 from "../assets/images/watch 1111111111.png";
+import img2 from "../assets/images/watch 2222222222.png";
+import img3 from "../assets/images/watch333333333.jpg";
+import img4 from "../assets/images/watch4444444.png";
+import img5 from "../assets/images/watch 5555555555555.jpg";
+import img6 from "../assets/images/watch4444444.png";
 
 
 export const data = [

@@ -1,4 +1,4 @@
-import img2 from "../assets/images/armaf.png"
+import img2 from "../assets/images/watch 1111111111.png"
 import Hero from "../components/Hero"
 import Loader from "../components/Loader"
 import Menu from "../components/Nav"

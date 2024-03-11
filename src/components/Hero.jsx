@@ -1,5 +1,4 @@
 import React from 'react'
-import hero from "../assets/images/71Jk6iAfm7L 1.png"
 
 const Hero = (props) => {
     // destructuring props
